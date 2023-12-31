@@ -1,4 +1,4 @@
-# Spring Boot 3 Microservice for AWS Lambda with GraalVM
+# GraalVM compiled Spring Boot 3 Microservice for AWS Lambda 
 
 This is a Spring Boot 3 microservice project which uses Spring Cloud Functions and can be compiled with GraalVM and deployed to AWS Lambda.
 
